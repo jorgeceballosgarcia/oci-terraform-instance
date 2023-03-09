@@ -198,7 +198,7 @@ output "connection_details" {
   
   Bastion ssh: ${oci_bastion_session.oci_bastion_session.ssh_metadata.command} 
 
-  Change <privateKey> with server.key
+  Replace <privateKey> with server.key
 
 EOF
 }
