@@ -1,6 +1,6 @@
 # OCI TERRAFORM INSTANCE
 
-Terraform script for provisioning a compute facility in OCI
+Terraform script for provisioning a compute instance in OCI
 
 ## Requirements
 
